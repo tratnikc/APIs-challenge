@@ -1,3 +1,5 @@
+Beginning Data Retrieval
+-------------------------------------
 Processing Record 1 of Set 1 | kerman
 Processing Record 2 of Set 1 | prince rupert
 Processing Record 3 of Set 1 | qaanaaq
@@ -7,6 +9,7 @@ Processing Record 6 of Set 1 | mataura
 Processing Record 7 of Set 1 | port alfred
 Processing Record 8 of Set 1 | castro
 Processing Record 9 of Set 1 | rikitea
+City not found... Skipping
 Processing Record 10 of Set 1 | thompson
 Processing Record 11 of Set 1 | khatanga
 Processing Record 12 of Set 1 | carballo
@@ -14,6 +17,7 @@ Processing Record 13 of Set 1 | atlantic city
 Processing Record 14 of Set 1 | busselton
 Processing Record 15 of Set 1 | hilo
 Processing Record 16 of Set 1 | kysyl-syr
+City not found... Skipping
 Processing Record 17 of Set 1 | barrow
 Processing Record 18 of Set 1 | pevek
 Processing Record 19 of Set 1 | butaritari
@@ -43,5 +47,9 @@ Processing Record 42 of Set 1 | altamira
 Processing Record 43 of Set 1 | nanortalik
 Processing Record 44 of Set 1 | saint-joseph
 Processing Record 45 of Set 1 | tolaga bay
+City not found... Skipping
 Processing Record 46 of Set 1 | port blair
 Processing Record 47 of Set 1 | yellowknife
+-------------------------------------
+Data Retrieval Complete
+-------------------------------------
