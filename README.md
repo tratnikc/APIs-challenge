@@ -7,8 +7,8 @@
  ## included:
  1. api_keys.py
  2. WeatherPy.ipynb 
- 3. [cities.csv](https://github.com/tratnikc/APIs-challenge/blob/main/starter_code/output_data/output_log.txt) in the 'output_data' folder
- 4. [output_log.txt](https://github.com/tratnikc/APIs-challenge/blob/main/starter_code/output_data/cities.csv) in 'output_data' folder
+ 3. [cities.csv](https://github.com/tratnikc/APIs-challenge/blob/main/starter_code/output_data/cities.csv) in 'output_data' folder
+ 4. [output_log.txt](https://github.com/tratnikc/APIs-challenge/blob/main/starter_code/output_data/output_log.txt) in the 'output_data' folder
  5. png files in 'images' folder
     * [lat_cloud.png](https://github.com/tratnikc/APIs-challenge/blob/main/starter_code/images/lat_cloud.png)
     * [lat_humid.png](https://github.com/tratnikc/APIs-challenge/blob/main/starter_code/images/lat_humid.png)
