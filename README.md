@@ -17,10 +17,10 @@
  
  ## Requirements
  Create a series of scatter plots to showcase the following relationships:  
-    * Temperature (F) vs Latitude
-    * Humidity (%) vs Latitude
-    * Cloudiness (%) vs Latitude
-    * Wind Speed (mph) vs Latitude
+    * Temperature (F) vs Latitude  
+    * Humidity (%) vs Latitude  
+    * Cloudiness (%) vs Latitude  
+    * Wind Speed (mph) vs Latitude  
  1. Randomly select at least 500 unique cities based on latitude and longitude
  2. Perform a weather check on each of the cities using a series of API calls
  3. Include a print log of cities processed
