@@ -7,16 +7,16 @@
  ## included:
  1. api_keys.py
  2. WeatherPy.ipynb 
- 3. cities.csv in the 'output_data' folder
- 4. output_log.txt in 'output_data' folder
+ 3. [cities.csv](https://github.com/tratnikc/APIs-challenge/blob/main/starter_code/output_data/output_log.txt) in the 'output_data' folder
+ 4. [output_log.txt](https://github.com/tratnikc/APIs-challenge/blob/main/starter_code/output_data/cities.csv) in 'output_data' folder
  5. png files in 'images' folder
-    * lat_cloud.png
-    * lat_humid.png
-    * lat_temp.png
-    * lat_wind.png
+    * [lat_cloud.png](https://github.com/tratnikc/APIs-challenge/blob/main/starter_code/images/lat_cloud.png)
+    * [lat_humid.png](https://github.com/tratnikc/APIs-challenge/blob/main/starter_code/images/lat_humid.png)
+    * [lat_temp.png](https://github.com/tratnikc/APIs-challenge/blob/main/starter_code/images/lat_temp.png)
+    * [lat_wind.png](https://github.com/tratnikc/APIs-challenge/blob/main/starter_code/images/lat_wind.png)
  
  ## Requirements
- Create a series of scatter plots to showcase the following relationships:
+ Create a series of scatter plots to showcase the following relationships:  
     * Temperature (F) vs Latitude
     * Humidity (%) vs Latitude
     * Cloudiness (%) vs Latitude
