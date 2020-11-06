@@ -22,8 +22,8 @@
       * Northern Hemisphere - [north_lat_cloud.png](https://github.com/tratnikc/python-api-challenge/blob/main/starter_code/images/north_lat_cloud.png)
       * Southern Hemisphere - [south_lat_cloud.png](https://github.com/tratnikc/python-api-challenge/blob/main/starter_code/images/south_lat_cloud.png)
     * Humidity vs Latitude
-     * Northern Hemisphere - [north_lat_humid.png](https://github.com/tratnikc/python-api-challenge/blob/main/starter_code/images/north_lat_humid.png)
-     * Southern Hemisphere - [south_lat_humid.png](https://github.com/tratnikc/python-api-challenge/blob/main/starter_code/images/south_lat_humid.png)
+      * Northern Hemisphere - [north_lat_humid.png](https://github.com/tratnikc/python-api-challenge/blob/main/starter_code/images/north_lat_humid.png)
+      * Southern Hemisphere - [south_lat_humid.png](https://github.com/tratnikc/python-api-challenge/blob/main/starter_code/images/south_lat_humid.png)
      * Temperature vs Latitude
        * Northern Hemisphere - [north_lat_temp.png](https://github.com/tratnikc/python-api-challenge/blob/main/starter_code/images/north_lat_temp.png)
        * Southern Hemisphere - [south_lat_temp.png](https://github.com/tratnikc/python-api-challenge/blob/main/starter_code/images/south_lat_temp.png)
