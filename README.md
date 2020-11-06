@@ -3,18 +3,33 @@
  ## WeatherPy
  
  ## Analysis
- 1. As indicated by the correlation coefficient and the linear regression model, there is a strong inverse relationship between Max Temperature and Latitude. As the latitude moves north (positive numbers) or south (negative numbers), the temperature goes in the opposite direction. This means that as the latitude goes closer to the north or south poles, the temperature becomes lower.
- 2. There 
+ 1. The correlation coeffient and linear regression model shows a strong negative correlation between latitude and maximum temperature in the northern hemisphere. As the latitude decreases, the temperature increases. In the southern hemisphere, the correlation coefficient and linear regression model shows a moderate positive correlation between latitude and maximum temperature. As the latitude increases towards zero, the temperature increases as well.
+ 2. The correlation coefficent and linear regression model for humidity vs latitude shows a weak positive correlation for both hemispheres. 
+ 3. Wind speed and latitude have no strong relationship in the northern and southern hemisphere as shown by the correlation and linear regression model.
+ 
  ## included:
  1. api_keys.py
  2. WeatherPy.ipynb 
- 3. [cities.csv](https://github.com/tratnikc/APIs-challenge/blob/main/starter_code/output_data/cities.csv) in 'output_data' folder
- 4. [output_log.txt](https://github.com/tratnikc/APIs-challenge/blob/main/starter_code/output_data/output_log.txt) in the 'output_data' folder
- 5. png files in 'images' folder
-    * [lat_cloud.png](https://github.com/tratnikc/APIs-challenge/blob/main/starter_code/images/lat_cloud.png)
-    * [lat_humid.png](https://github.com/tratnikc/APIs-challenge/blob/main/starter_code/images/lat_humid.png)
-    * [lat_temp.png](https://github.com/tratnikc/APIs-challenge/blob/main/starter_code/images/lat_temp.png)
-    * [lat_wind.png](https://github.com/tratnikc/APIs-challenge/blob/main/starter_code/images/lat_wind.png)
+ 3. [cities.csv](https://github.com/tratnikc/python-api-challenge/blob/main/starter_code/output_data/cities.csv) in output_data folder
+ 4. [output_log.txt](https://github.com/tratnikc/python-api-challenge/blob/main/starter_code/output_data/output_log.txt) in output_data folder
+ 5. png files in images folder
+    * Cloudiness vs Latitude - [lat_cloud.png](https://github.com/tratnikc/python-api-challenge/blob/main/starter_code/images/lat_cloud.png)
+    * Humidity vs Latitude - [lat_humid.png](https://github.com/tratnikc/python-api-challenge/blob/main/starter_code/images/lat_humid.png)
+    * Temperature vs Latitude - [lat_temp.png](https://github.com/tratnikc/python-api-challenge/blob/main/starter_code/images/lat_temp.png)
+    * Wind Speed vs Latitude - [lat_wind.png](https://github.com/tratnikc/python-api-challenge/blob/main/starter_code/images/lat_wind.png)  
+    
+    * Cloudiness vs Latitude
+      * Northern Hemisphere - [north_lat_cloud.png](https://github.com/tratnikc/python-api-challenge/blob/main/starter_code/images/north_lat_cloud.png)
+      * Southern Hemisphere - [south_lat_cloud.png](https://github.com/tratnikc/python-api-challenge/blob/main/starter_code/images/south_lat_cloud.png)
+    * Humidity vs Latitude
+     * Northern Hemisphere - [north_lat_humid.png](https://github.com/tratnikc/python-api-challenge/blob/main/starter_code/images/north_lat_humid.png)
+     * Southern Hemisphere - [south_lat_humid.png](https://github.com/tratnikc/python-api-challenge/blob/main/starter_code/images/south_lat_humid.png)
+     * Temperature vs Latitude
+       * Northern Hemisphere - [north_lat_temp.png](https://github.com/tratnikc/python-api-challenge/blob/main/starter_code/images/north_lat_temp.png)
+       * Southern Hemisphere - [south_lat_temp.png](https://github.com/tratnikc/python-api-challenge/blob/main/starter_code/images/south_lat_temp.png)
+    * Wind Speed vs Latitude
+      * Northern Hemisphere - [north_lat_wind.png](https://github.com/tratnikc/python-api-challenge/blob/main/starter_code/images/north_lat_wind.png)
+      * Southern Hemisphere - [south_lat_wind.png](https://github.com/tratnikc/python-api-challenge/blob/main/starter_code/images/south_lat_wind.png)
     
  
  ## Requirements
